@@ -1,7 +1,8 @@
-♟️ Chess-GRPO: Reinforcement Learning via Verifiable Rewards
+♟️ **Chess-GRPO: Reinforcement Learning via Verifiable Rewards**
 
 This project implements a Chess AI trained using Group Relative Policy Optimization (GRPO). The agent leverages Stockfish as a "Verifiable Reward" provider, bridging the gap between deep neural networks and classical chess engine heuristics.
-🚀 Key Features
+
+🚀 **Key Features**
 
     GRPO Architecture: Implements group-based advantage estimation to optimize the policy without a separate value (critic) network, reducing memory overhead and complexity.
 
